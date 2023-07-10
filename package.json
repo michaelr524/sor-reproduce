@@ -1,0 +1,11 @@
+{
+  "name": "sor-reproduce",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@balancer-labs/sdk": "^1.1.2",
+    "ethers": "^5.5.1",
+    "typescript": "5.1.3"
+  }  
+}
